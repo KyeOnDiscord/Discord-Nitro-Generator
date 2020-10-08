@@ -1,0 +1,7 @@
+C:\Users\ProMa\source\repos\NitroGen\bin\Debug\NitroGen.exe.config
+C:\Users\ProMa\source\repos\NitroGen\bin\Debug\NitroGen.exe
+C:\Users\ProMa\source\repos\NitroGen\bin\Debug\NitroGen.pdb
+C:\Users\ProMa\source\repos\NitroGen\obj\Debug\NitroGen.csprojAssemblyReference.cache
+C:\Users\ProMa\source\repos\NitroGen\obj\Debug\NitroGen.csproj.CoreCompileInputs.cache
+C:\Users\ProMa\source\repos\NitroGen\obj\Debug\NitroGen.exe
+C:\Users\ProMa\source\repos\NitroGen\obj\Debug\NitroGen.pdb
